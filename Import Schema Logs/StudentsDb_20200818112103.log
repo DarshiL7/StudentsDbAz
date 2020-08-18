@@ -1,0 +1,86 @@
+18-08-2020 04:51:03 PM	This log contains information about the import schema operation into project 'StudentsDb' on computer 'DARSHIL7' by user 'Darshil'.
+18-08-2020 04:51:03 PM	Import of database schema has started.
+18-08-2020 04:51:36 PM	Gathering database credentials
+18-08-2020 04:51:36 PM	Gathering database options
+18-08-2020 04:51:36 PM	Gathering generic database scoped configuration option
+18-08-2020 04:51:36 PM	Gathering users
+18-08-2020 04:51:36 PM	Gathering roles
+18-08-2020 04:51:36 PM	Gathering application roles
+18-08-2020 04:51:36 PM	Gathering role memberships
+18-08-2020 04:51:36 PM	Gathering filegroups
+18-08-2020 04:51:36 PM	Gathering full-text catalogs
+18-08-2020 04:51:36 PM	Gathering assemblies
+18-08-2020 04:51:36 PM	Gathering certificates
+18-08-2020 04:51:36 PM	Gathering asymmetric keys
+18-08-2020 04:51:36 PM	Gathering symmetric keys
+18-08-2020 04:51:36 PM	Gathering encrypted symmetric keys
+18-08-2020 04:51:36 PM	Gathering schemas
+18-08-2020 04:51:36 PM	Gathering XML schema collections
+18-08-2020 04:51:36 PM	Gathering user-defined data types
+18-08-2020 04:51:36 PM	Gathering user-defined types
+18-08-2020 04:51:36 PM	Gathering table types
+18-08-2020 04:51:37 PM	Gathering unique keys for table types
+18-08-2020 04:51:37 PM	Gathering primary keys for table types
+18-08-2020 04:51:37 PM	Gathering indexes for table types
+18-08-2020 04:52:40 PM	Gathering check constraints for table types
+18-08-2020 04:52:40 PM	Gathering default constraints for table types
+18-08-2020 04:52:40 PM	Gathering partition functions
+18-08-2020 04:52:40 PM	Gathering partition schemes
+18-08-2020 04:52:41 PM	Gathering functions
+18-08-2020 04:52:42 PM	Gathering encrypted functions
+18-08-2020 04:52:44 PM	Gathering aggregates
+18-08-2020 04:52:47 PM	Gathering procedures
+18-08-2020 04:53:12 PM	Gathering encrypted procedures
+18-08-2020 04:53:16 PM	Gathering tables
+18-08-2020 04:53:44 PM	Gathering primary keys
+18-08-2020 04:53:45 PM	Gathering unique constraints
+18-08-2020 04:53:45 PM	Gathering foreign keys
+18-08-2020 04:53:45 PM	Gathering default constraints
+18-08-2020 04:53:45 PM	Gathering check constraints
+18-08-2020 04:54:05 PM	Gathering views
+18-08-2020 04:54:05 PM	Gathering encrypted views
+18-08-2020 04:54:06 PM	Gathering indexes
+18-08-2020 04:54:06 PM	Gathering statistics
+18-08-2020 04:54:06 PM	Gathering full-text index stoplists
+18-08-2020 04:54:06 PM	Gathering search property lists
+18-08-2020 04:54:06 PM	Gathering search properties
+18-08-2020 04:54:07 PM	Gathering full-text indexes
+18-08-2020 04:54:07 PM	Gathering column store indexes
+18-08-2020 04:54:08 PM	Gathering spatial indexes
+18-08-2020 04:54:08 PM	Gathering XML indexes
+18-08-2020 04:54:09 PM	Gathering Selective XML indexes
+18-08-2020 04:54:10 PM	Gathering encrypted triggers
+18-08-2020 04:54:10 PM	Gathering triggers
+18-08-2020 04:54:10 PM	Gathering encrypted and clr ddl triggers
+18-08-2020 04:54:11 PM	Gathering ddl triggers
+18-08-2020 04:54:11 PM	Creating edge constraints
+18-08-2020 04:54:11 PM	Gathering synonyms
+18-08-2020 04:54:24 PM	Gathering defaults
+18-08-2020 04:54:24 PM	Gathering data constraint uddt bindings
+18-08-2020 04:54:43 PM	Gathering rules
+18-08-2020 04:54:43 PM	Gathering data constraint uddt bindings
+18-08-2020 04:54:43 PM	Gathering message types
+18-08-2020 04:54:43 PM	Gathering queues
+18-08-2020 04:54:43 PM	Gathering contracts
+18-08-2020 04:54:44 PM	Gathering services
+18-08-2020 04:54:44 PM	Gathering event notifications
+18-08-2020 04:54:44 PM	Gathering remote service bindings
+18-08-2020 04:54:44 PM	Gathering broker priorities
+18-08-2020 04:54:44 PM	Gathering signatures
+18-08-2020 04:54:45 PM	Gathering data compression options
+18-08-2020 04:54:45 PM	Gathering sequence types
+18-08-2020 04:54:45 PM	Gathering security policies
+18-08-2020 04:54:45 PM	Gather column encryption keys
+18-08-2020 04:54:45 PM	Gathering column master keys
+18-08-2020 04:54:45 PM	Gathering external data sources
+18-08-2020 04:54:45 PM	Gathering external file formats
+18-08-2020 04:54:46 PM	Gathering external tables
+18-08-2020 04:54:46 PM	Gathering extended properties
+18-08-2020 04:54:54 PM	Gathering credentials
+18-08-2020 04:54:54 PM	Gathering logins
+18-08-2020 04:54:54 PM	Gathering server audits
+18-08-2020 04:54:56 PM	Scanning project for duplicate elements
+18-08-2020 04:54:56 PM	Finished duplicate element processing
+18-08-2020 04:54:58 PM	Finished importing database.
+18-08-2020 04:54:58 PM	A summary of the import was saved to the following location: E:\RxTraning\DevOps\Azure Database\StudentsDb\Import Schema Logs\StudentsDb_20200818112103.log
+18-08-2020 04:54:58 PM	Click Finish to continue...

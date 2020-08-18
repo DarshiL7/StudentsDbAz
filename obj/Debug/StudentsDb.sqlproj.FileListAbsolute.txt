@@ -1,0 +1,10 @@
+E:\RxTraning\DevOps\Azure Database\StudentsDb\bin\Debug\StudentsDb.dacpac
+E:\RxTraning\DevOps\Azure Database\StudentsDb\bin\Debug\StudentsDb.dll
+E:\RxTraning\DevOps\Azure Database\StudentsDb\bin\Debug\StudentsDb.pdb
+E:\RxTraning\DevOps\Azure Database\StudentsDb\obj\Debug\StudentsDb.sqlprojAssemblyReference.cache
+E:\RxTraning\DevOps\Azure Database\StudentsDb\obj\Debug\Model.xml
+E:\RxTraning\DevOps\Azure Database\StudentsDb\obj\Debug\refactor.xml
+E:\RxTraning\DevOps\Azure Database\StudentsDb\obj\Debug\postdeploy.sql
+E:\RxTraning\DevOps\Azure Database\StudentsDb\obj\Debug\predeploy.sql
+E:\RxTraning\DevOps\Azure Database\StudentsDb\obj\Debug\StudentsDb.dll
+E:\RxTraning\DevOps\Azure Database\StudentsDb\obj\Debug\StudentsDb.pdb
